@@ -6,7 +6,7 @@
 /* Body styling */
 body { 
     text-align: center;
-    background: #ffdde1 url('https://i.imgur.com/nVVaZgV.jpg') no-repeat center center fixed; /* Soft pink background with the image */
+    background: #ffdde1 url(nVVaZgV.jpeg) no-repeat center center fixed; /* Soft pink background with the image */
     background-size: cover; /* Ensures the image covers the entire background */
     display: flex;
     flex-direction: column;
